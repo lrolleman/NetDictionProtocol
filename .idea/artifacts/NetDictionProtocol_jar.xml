@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetDictionProtocol:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetDictionProtocol_jar</output-path>
+    <root id="archive" name="NetDictionProtocol.jar">
+      <element id="module-output" name="NetDictionProtocol" />
+      <element id="extracted-dir" path="E:/Eclipse/antlr-4.5.3-complete.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
